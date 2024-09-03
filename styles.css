@@ -1,0 +1,18 @@
+body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        .image-text {
+            font-size: 100px;
+            font-weight: bold;
+            background: url('https://picsum.photos/200/300') no-repeat center;
+            background-size: cover;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            color: transparent;
+        }
