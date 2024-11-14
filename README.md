@@ -28,7 +28,7 @@ Technologies used in the project:
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the unlicense
+This project is licensed under the [Unlicense license](https://unlicense.org/)
 
 <h2>💖Like my work?</h2>
 
