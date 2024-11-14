@@ -8,7 +8,6 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/MgTHTsW/IMG-4953.jpg" alt="project-screenshot" width="1000px" height="auto/">
 
 <h2>💖Like my work?</h2>
 
